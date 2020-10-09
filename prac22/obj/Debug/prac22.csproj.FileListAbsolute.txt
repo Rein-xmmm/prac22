@@ -1,0 +1,7 @@
+C:\Users\Алишер\Desktop\C#\prac22\prac22\bin\Debug\prac22.exe.config
+C:\Users\Алишер\Desktop\C#\prac22\prac22\bin\Debug\prac22.exe
+C:\Users\Алишер\Desktop\C#\prac22\prac22\bin\Debug\prac22.pdb
+C:\Users\Алишер\Desktop\C#\prac22\prac22\obj\Debug\prac22.csprojAssemblyReference.cache
+C:\Users\Алишер\Desktop\C#\prac22\prac22\obj\Debug\prac22.csproj.CoreCompileInputs.cache
+C:\Users\Алишер\Desktop\C#\prac22\prac22\obj\Debug\prac22.exe
+C:\Users\Алишер\Desktop\C#\prac22\prac22\obj\Debug\prac22.pdb
